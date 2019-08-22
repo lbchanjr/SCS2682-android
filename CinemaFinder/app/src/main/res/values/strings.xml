@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cinema Finder</string>
+    <string name="find_loc">Find Theaters</string>
+    <string name="show_details">Show Details</string>
+</resources>
